@@ -1,2 +1,3 @@
 node_modules/
 dist/
+integrador/database.sqlite
